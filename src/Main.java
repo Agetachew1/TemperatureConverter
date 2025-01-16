@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Enter temperature value: ");
         double temp = scan.nextDouble();
 
-        double result =0;
+        double result;
 
         switch(choice){
             case 1: // Celsius to Fahrenheit
